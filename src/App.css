@@ -13,6 +13,16 @@
   }
 }
 
+.act {
+  color: orange;
+}
+.def {
+  color: #61dafb;
+}
+
+.active {
+  font-size: 25px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
